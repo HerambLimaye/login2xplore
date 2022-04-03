@@ -19,7 +19,7 @@ You can read the documentation by clicking [here.](http://login2explore.com/jpdb
 ---
 
 ### Release History
-#### v0.0.0 (27/02/2021)
+#### v0.0.0 (03/04/2022)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 ---
